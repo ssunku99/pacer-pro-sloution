@@ -12,12 +12,14 @@ When the `/api/data` endpoint response time exceeds 3 seconds more than 5 times 
 
 ## Repository Structure
 
-├── sumo_logic_query.txt              # Sumo Logic query and alert config
+├── sumo_logic/
+│   └── sumo_logic_query.txt
 ├── lambda_function/
-│   └── lambda_function.py            # Python Lambda function
+│   └── lambda_function.py
 ├── terraform/
-│   └── main.tf                       # Infrastructure as Code
+│   └── main.tf
 └── README.md
+
 
 ## Part 1: Sumo Logic Query
 
