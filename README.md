@@ -72,7 +72,3 @@ terraform apply
 ```
 
 After deployment, copy the webhook_url output and configure it as the Sumo Logic Monitor webhook endpoint.
-
-## Recording
-
-Screen and audio recordings of my implementation process are included with the submission.
